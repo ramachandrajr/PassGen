@@ -1,0 +1,27 @@
+// objStruct
+
+{
+	src: // Filename 
+	msg: {
+
+	}
+}
+
+// Working
+							init
+buttonClick  ==>  popup.js  ==>  background works and 									 		^^			 generates password
+					||
+					||			||		|| Injects scripts.
+				    ||			||		||
+				   ===============		$$ They ask for password.
+				   Sends password		||
+				    to popup.js			||
+				    					|| Delivers password
+
+
+
+// 	Working of password.js
+
+paradigm 1 
+
+

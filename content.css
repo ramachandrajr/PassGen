@@ -1,0 +1,41 @@
+#password-plugin-data {
+
+  background-color: #222;
+  border-color: #080808;
+
+  position: absolute;
+  top: 0px;
+  width: 42%;
+  margin: 0px 29%;
+  position: fixed;
+  color: #ccc;
+  padding: 8px 0 0 0;
+  text-align: center;
+  border-radius: 0 0 10px 10px;
+  font-size: 12px;
+
+  box-shadow: 
+}
+
+span.imp {
+	color: #fff;
+	font-size: 14px;	
+}
+
+span.red {
+	color: #b20000;
+}
+
+#cross {
+	background-color: #222;
+	font-size: 15px;
+	padding: 3px;
+	font-weight: 300;
+	color: #fff;
+	margin-top: 8px;
+}
+
+#cross:hover {
+	text-decoration: none;
+	color: #fff;
+}
